@@ -1,0 +1,5 @@
+﻿  Task_Game.cpp
+  Task_Player.cpp
+C:\temp\SourceTree\Renew\制作\Task_Player.cpp(224,38): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  GPG_2020.vcxproj -> C:\temp\SourceTree\Renew\制作\x64\Debug\GPG_2020.exe
